@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta name="viewport" content="initial-scale=1">
+    <!-- Reference the correct icon to use rather than the default... -->
+    <link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+
+    <!-- Set the title for the page... -->
+    <title>Radius RTM</title>
+    
+    <style>
+        html, body{
+            height: 100%;
+            width: 100%;
+        }
+        button{
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    
+    <!-- Redirect to the app URL... -->
+    <script type="text/javascript">
+            window.location = 'https://tableau.cokecce.com/#/site/Analytics/views/ReverseRadius/ReverseRadius?:embed=yes&:tabs=no';
+
+    </script>
+</body>
+</html>
